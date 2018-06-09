@@ -1,0 +1,2 @@
+pyuic5 main_interface.ui -o main_interface.py
+sudo chmod 666 /dev/ttyACM0
